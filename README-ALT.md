@@ -12,6 +12,73 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MichaelD835&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+
+<table>
+  <tr>
+    <td rowspan="2" align="center">    
+      <a href="https://github.com/MichaelD835#gh-dark-mode-only">
+        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelD835&theme=dark&hide_border=true" alt="My GitHub Stats"/>
+      </a>
+    </td>
+    <td align="left">
+      <a href="https://github.com/MichaelD835#gh-dark-mode-only">
+        <img width="50%" src="https://github-readme-stats.vercel.app/api?username=MichaelD835&theme=dark&hide_border=true&include_all_commits=false&count_private=false" alt="My GitHub Stats"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="left">
+      <a href="https://github.com/MichaelD835#gh-dark-mode-only">
+        <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="My GitHub Stats"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+<table>
+    <tr>
+        <td align="center">
+          <a href="https://github.com/MichaelD835#gh-light-mode-only">
+            <img src="[https://github-readme-stats.vercel.app/api?username=MichaelD835&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only](https://github-readme-stats.vercel.app/api?username=MichaelD835&theme=dark&hide_border=true&include_all_commits=false&count_private=false)" alt="My GitHub Stats"/>
+          </a>
+          <a href="https://github.com/MichaelD835#gh-dark-mode-only">
+            <img src="https://github-readme-stats.vercel.app/api?username=MichaelD835&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/>
+          </a>
+        </td>
+        <td rowspan="2" align="center">
+          <a href="https://github.com/MichaelD835#gh-light-mode-only">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/>
+          </a>
+          <a href="https://github.com/MichaelD835#gh-dark-mode-only">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/>
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">
+          <a href="https://github.com/MichaelD835#gh-light-mode-only">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=default"/>
+          </a>
+          <a href="https://github.com/MichaelD835#gh-dark-mode-only">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=tokyonight"/>
+          </a>
+        </td>
+    </tr>
+    <tr>
+        <td colspan="2" align="center">
+          <a href="https://github.com/MichaelD835#gh-light-mode-only">
+            <img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/>
+          </a>
+          <a href="https://github.com/MichaelD835#gh-dark-mode-only">
+            <img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/>
+          </a>
+        </td>
+    </tr>
+</table>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MichaelD835&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
@@ -23,5 +90,7 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MichaelD835&icon=3&color=1)](https://visitcount.itsvg.in)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
