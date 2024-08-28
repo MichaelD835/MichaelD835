@@ -1,14 +1,17 @@
 <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=04d9ff&height=120&section=header"/>-->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04d9ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Michael+Douglas;Full+Stack+Developer;6th+Period+of+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=04d9ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Michael+Douglas;Full+Stack+Developer;6th+Period+of+Information+Systems;Be+Welcome!+:%29)](https://git.io/typing-svg) -->
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sansita+Swashed&size=40&duration=4000&pause=500&color=0097F7&center=true&vCenter=true&width=1000&&lines=Hello%2C+My+name+is+Michael;Studying+Full+Stack+Development;6th+Period+of+Information+Systems;Be+Welcome!)](https://git.io/typing-svg)
+
+<!--
 <div align="center">
 	<a class="link" href="https://github.com/MichaelD835/MichaelD835/blob/main/header.svg">
 		<img class="image" src="header.svg" alt="Click to see the source">
 	</a>
 </div>
-
+-->
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MichaelD835&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Michael Douglas github stats" /> 
@@ -17,11 +20,11 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MichaelD835&bg_color=000000&color=04d9ff&line=04d9ff&point=04d9ff&area=true&hide_border=true&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=MichaelD835&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
--->
+
 
 <div align="center">  
   <a href="https://www.instagram.com/michaeldouglastg/" target="_blank">
@@ -62,6 +65,38 @@
   ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
   ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
   -->
+
+
+
+<!--
+## 🌐Socials
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/michaeldouglastg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/michaeldouglastg) 
+
+## 💻Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 	
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white)
+
+## 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=MichaelD835&theme=react&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=MichaelD835&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=MichaelD835&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
+
+## ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=MichaelD835&icon=0&color=1)](https://visitcount.itsvg.in)
+-->
 
 <div align="center">
 <br>
