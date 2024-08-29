@@ -1,6 +1,18 @@
 ## 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MichaelD835&theme=react-dark&hide_border=true&days=7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelD835&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&repo=social-links)](https://github.com/anuraghazra/github-readme-stats)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ### 📊 GitHub Stats:
 <table>
   <tr>
