@@ -5,11 +5,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sansita+Swashed&size=40&duration=4000&pause=500&color=0097F7&center=true&vCenter=true&width=1000&&lines=Hello%2C+My+name+is+Michael;Studying+Full+Stack+Development;6th+Period+of+Information+Systems;Be+Welcome!)](https://git.io/typing-svg)
 
+<!--
 <div align="center"><a href="https://github.com/MichaelD835/MichaelD835/blob/main/header.svg"><img class=image" src="header.svg" alt="Click to see the source"></a></div>
 <div align="center"><a href="https://github.com/MichaelD835/MichaelD835/blob/main/title-neon.svg"><img class=image" src="title-neon.svg" alt="Click to see the source"></a></div>
 
 <a href="https://github.com/Nick-Gabe/central-nickgabe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=central-nickgabe&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<!--
+
 <div align="center">
 	<a class="link" href="https://github.com/MichaelD835/MichaelD835/blob/main/header.svg">
 		<img class="image" src="header.svg" alt="Click to see the source">
