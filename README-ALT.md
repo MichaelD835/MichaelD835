@@ -2,32 +2,14 @@
 
 [![Apresentação](https://readme-typing-svg.herokuapp.com?font=Sansita+Swashed&size=40&duration=4000&pause=500&color=0097F7&center=true&vCenter=true&width=1000&&lines=Hello%2C+My+name+is+Michael;Studying+Full+Stack+Development;6th+Period+of+Information+Systems;Be+Welcome!)](https://git.io/typing-svg)
 
-<!--
-github_dark: {
-    title_color: "58A6FF",
-    icon_color: "1F6FEB",
-    text_color: "C3D1D9",
-    bg_color: "0D1117",
-  },
-  github_dark_dimmed: {
-    title_color: "539bf5",
-    icon_color: "539bf5",
-    text_color: "ADBAC7",
-    bg_color: "24292F",
-    border_color: "373E47",
-  },
-
--->
-
-
 <div align="center"><a href="https://github.com/MichaelD835#gh-dark-mode-only">
-<img width="100%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=MichaelD835&theme=github-dark&hide_border=true&border_radius=10""https://git.io/streak-stats"/>
+    <img width="100%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=MichaelD835&theme=github-dark&hide_border=true&border_radius=10""https://git.io/streak-stats"/>
     
-  <img width="100%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelD835&theme=github_dark&hide_border=true" alt="Michael Douglas github stats"/>
-  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=MichaelD835&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" alt="Michael Douglas github stats" /> 
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=MichaelD835&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" alt="Michael Douglas github stats" />
   <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&layout=compact&hide_border=true&title_color=58A6FF&text_color=C3D1D9&bg_color=0D1117" />
 </a>
 </div>
+
 <div align="center"><a href="https://github.com/MichaelD835#gh-light-mode-only">
     <img width="100%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=MichaelD835&theme=github-light&hide_border=true&border_radius=10""https://git.io/streak-stats"/>
 </a>
