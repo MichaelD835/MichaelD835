@@ -10,29 +10,22 @@
         <!--STREAK STATS-->
         <a href="https://git.io/streak-stats"><img width="100%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=MichaelD835&theme=github-dark&hide_border=true&border_radius=10"/></a>
         <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=MichaelD835&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" alt="Michael Douglas github stats"/>
-        <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&layout=compact&hide_border=true&title_color=58A6FF&text_color=C3D1D9&bg_color=0D1117"/>
+        <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&layout=compact&hide_border=true&title_color=58A6FF&text_color=C3D1D9&bg_color=0D1117">
         <!--🏆GITHUB GRAPH-->
-        <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelD835&theme=react-dark&hide_border=true&days=7"/></a>
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelD835&theme=react-dark&hide_border=true&days=7"></a>
         <!--🏆GITHUB TROPHIES-->
         <img src="https://github-profile-trophy.vercel.app/?username=MichaelD835&theme=dracula&no-frame=true&no-bg=true&margin-w=4"/>
-        <!--🏆GITHUB REPO-->
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&hide_border=true&repo=social-links"/>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&hide_border=true&repo=social-links"/>
     </a>
     <!--LIGHT MODE-->
     <a href="https://github.com/MichaelD835#gh-light-mode-only">
         <!--STREAK STATS-->
-        <img width="100%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=MichaelD835&theme=github-light&hide_border=true&border_radius=10""https://git.io/streak-stats"/>
+        <a href="https://git.io/streak-stats"><img width="100%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=MichaelD835&theme=github-light&hide_border=true&border_radius=10"/>
         <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=MichaelD835&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" alt="Michael Douglas github stats" />
         <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&layout=compact&hide_border=true&title_color=58A6FF&text_color=C3D1D9&bg_color=0D1117" />
         <!--🏆GITHUB GRAPH-->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelD835&theme=react-dark&bg_color=ffffff&hide_border=true&days=7""https://github.com/ashutosh00710/github-readme-activity-graph"/>
+        <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelD835&theme=react-dark&bg_color=ffffff&hide_border=true&days=7"></a>
         <!--🏆GITHUB TROPHIES-->
-        <img src="https://github-profile-trophy.vercel.app/?username=MichaelD835&theme=flat&no-frame=true&no-bg=true&margin-w=4"/>
-        <!--🏆GITHUB REPO-->
-        <hr>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=default_repocard&hide_border=true&repo=social-links" />
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=default_repocard&hide_border=true&repo=social-links" />
+        <img src="https://github-profile-trophy.vercel.app/?username=MichaelD835&theme=flat&no-frame=true&no-bg=true&margin-w=4">
     </a>
     <!--SOCIAL ICONS-->
     <a href="https://instagram.com/michaeldouglastg"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
@@ -42,7 +35,6 @@
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)" alt="CSS3">
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-        <br><td>
     <!--SKILLS TABLES-->
     <table>
         <tr>
@@ -78,5 +70,17 @@
         </tr>
     </table>
 </div>
+<!--DARK MODE-->
+    <a href="https://github.com/MichaelD835#gh-dark-mode-only">
+        <!--🏆GITHUB REPO-->
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&hide_border=true&repo=social-links"/>
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&hide_border=true&repo=social-links"/>
+    </a>
+<!--LIGHT MODE-->
+    <a href="https://github.com/MichaelD835#gh-light-mode-only">
+        <!--🏆GITHUB REPO-->
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=default_repocard&hide_border=true&repo=social-links" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=default_repocard&hide_border=true&repo=social-links" />
+    </a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer"/>
