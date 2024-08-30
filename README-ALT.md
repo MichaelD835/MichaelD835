@@ -31,7 +31,7 @@
     <a href="https://instagram.com/michaeldouglastg"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://linkedin.com/in/michaeldouglastg"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <!--SKILLS-->
-    <h3>💻 Main skills</h3>
+    <h3>💻 Studying in this moment:</h3>
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)" alt="CSS3">
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -71,8 +71,10 @@
     </table>
 <!--DARK MODE-->
         <!--🏆GITHUB REPO CARD-->
+        <div>
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links">
+        
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links">
     </a>
