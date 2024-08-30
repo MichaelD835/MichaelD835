@@ -72,6 +72,7 @@
             </td>
         </tr>
     </table>
+<!--
     <table>
         <tr><th>💻 Future Stack</th></tr>
         <tr><th>💻 Notion Stack</th></tr>
@@ -102,8 +103,7 @@
             </td>
         </tr>
     </table>
-
-    
+-->    
 </div>
 
 ---
