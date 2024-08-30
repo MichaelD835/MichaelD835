@@ -1,37 +1,58 @@
-## 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient"/>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MichaelD835&theme=react-dark&hide_border=true&days=7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Sansita+Swashed&size=40&duration=4000&pause=500&color=0097F7&center=true&vCenter=true&width=1000&&lines=Hello%2C+My+name+is+Michael;Studying+Full+Stack+Development;6th+Period+of+Information+Systems;Be+Welcome!)](https://git.io/typing-svg)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelD835&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&repo=social-links)](https://github.com/anuraghazra/github-readme-stats)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+<div align="center">  
+  <a href="https://github.com/MichaelD835#gh-dark-mode-only">
+  <img align="center" height="240px" src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelD835&theme=github_dark&hide_border=true" alt="Michael Douglas github stats"/>
+</a>
 
-### 📊 GitHub Stats:
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MichaelD835&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Michael Douglas github stats" /> 
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=MichaelD835&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Michael Douglas github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+<!--
 <table>
-  <tr>
-    <td rowspan="2" align="center"><a href="https://github.com/MichaelD835#gh-dark-mode-only"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelD835&theme=vue-dark&hide_border=true" alt="My GitHub Stats"/></a></td>
-    <td rowspan="2" align="center"><a href="https://github.com/MichaelD835#gh-light-mode-only"><img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelD835&theme=vue&hide_border=true" alt="My GitHub Stats"/></a></td>
-    <td align="left"><a href="https://github.com/MichaelD835#gh-dark-mode-only"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=MichaelD835&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" alt="My GitHub Stats"/></a></td>
-    <td align="left"><a href="https://github.com/MichaelD835#gh-light-mode-only"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=MichaelD835&theme=vue&hide_border=true&include_all_commits=false&count_private=false" alt="My GitHub Stats"/></a></td>
+  <tr border-color=red>
+    <td align="center">
+      <a href="https://github.com/MichaelD835#gh-dark-mode-only"><img height="100%" src="https://github-readme-stats.vercel.app/api?username=MichaelD835&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false" alt="My GitHub Stats"/></a>
+      <a href="https://github.com/MichaelD835#gh-light-mode-only"><img height="50%" src="https://github-readme-stats.vercel.app/api?username=MichaelD835&theme=vue&hide_border=true&include_all_commits=false&count_private=false" alt="My GitHub Stats"/></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MichaelD835#gh-dark-mode-only"><img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelD835&theme=vue-dark&hide_border=true" alt="My GitHub Stats"/></a>
+      <a href="https://github.com/MichaelD835#gh-light-mode-only"><img height="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MichaelD835&theme=vue&hide_border=true" alt="My GitHub Stats"/></a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MichaelD835#gh-dark-mode-only"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="My GitHub Stats"/></a>
+      <a href="https://github.com/MichaelD835#gh-light-mode-only"><img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="My GitHub Stats"/></a>
+    </td>
   </tr>
+  
   <tr>
-    <td align="left"><a href="https://github.com/MichaelD835#gh-dark-mode-only"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="My GitHub Stats"/></a></td>
-    <td align="left"><a href="https://github.com/MichaelD835#gh-light-mode-only"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="My GitHub Stats"/></a></td>
+    <td align="left">
+      <a href="https://github.com/MichaelD835#gh-dark-mode-only"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="My GitHub Stats"/></a>
+      <a href="https://github.com/MichaelD835#gh-light-mode-only"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&theme=vue&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="My GitHub Stats"/></a>
+    </td>
   </tr>
+  
   <tr>
-    <td colspan="2" align="center">
+    <td colspan="3" align="center">
       <a href="https://github.com/MichaelD835#gh-light-mode-only"><img src="https://raw.githubusercontent.com/MichaelD835/MichaelD835/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a>
       <a href="https://github.com/MichaelD835#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/MichaelD835/MichaelD835/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a>
     </td>
   </tr>
 </table>
+
+
+
+## 💫 About Me:
+🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+-->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MichaelD835&theme=react-dark&hide_border=true&days=7)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=MichaelD835&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
@@ -62,7 +83,16 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
+github_dark
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&repo=social-links" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&repo=social-links" />
+</a>
 
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&repo=social-links)](https://github.com/anuraghazra/github-readme-stats)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
