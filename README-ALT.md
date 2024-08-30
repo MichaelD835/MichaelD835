@@ -27,7 +27,7 @@
     <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=MichaelD835&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" alt="Michael Douglas github stats" />
     <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&layout=compact&hide_border=true&title_color=58A6FF&text_color=C3D1D9&bg_color=0D1117" />
 <!--## 🏆 Graph-->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelD835&theme=react-light&hide_border=true&days=7""https://github.com/ashutosh00710/github-readme-activity-graph"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelD835&theme=react-dark&bg_color=ffffff&hide_border=true&days=7""https://github.com/ashutosh00710/github-readme-activity-graph"/>
 <!--## 🏆 GitHub Trophies-->
     <img src="https://github-profile-trophy.vercel.app/?username=MichaelD835&theme=flat&no-frame=true&no-bg=true&margin-w=4"/>
 <!--## 🏆 Repo-->
