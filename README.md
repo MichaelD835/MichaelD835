@@ -34,7 +34,7 @@
     <a href="https://instagram.com/michaeldouglastg"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram"></a>
     <a href="https://linkedin.com/in/michaeldouglastg"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <!--SKILLS-->
-    <h3>💻 Studying in this moment:</h3>
+    <h3>🚀 Studying in this moment:</h3>
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)" alt="CSS3">
         <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -43,10 +43,10 @@
     <table>
         <tr>
             <th>💻 Next Learnings</th>
-            <th>💻 Main Stack</th>
-            <th>💻 Data</th>
-            <th>💻 Design</th>
-            <th>💻 Versioning</th>
+            <th></> Main Stack</th>
+            <th>💾 Data</th>
+            <th>🖌 Design</th>
+            <th>🧩 Versioning</th>
         </tr>
         <tr>
             <td>
@@ -148,7 +148,7 @@
 <img src="https://github.com/MichaelD835/MichaelD835/blob/main/rgb-line.svg">
 
 <br>
-  <p align="center"><b>Visitors Count</b></p>  
+  <p align="center"><b>🧮 Visitors Count</b></p>  
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MichaelD835}/count.svg"></p>
 
 </div>
