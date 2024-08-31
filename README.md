@@ -4,8 +4,9 @@
 <!--APRESENTAÇÃO-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Sansita+Swashed&size=40&duration=4000&pause=500&color=0097F7&center=true&vCenter=true&width=1000&&lines=Hello%2C+My+name+is+Michael;Studying+Full+Stack+Development;6th+Period+of+Information+Systems;Be+Welcome!" alt="Apresentação"></a>
 
----
+
 <div align="center">
+    <img src="https://github.com/MichaelD835/MichaelD835/blob/main/rgb-line.svg">
     <!--DARK MODE-->
     <a href="https://github.com/MichaelD835#gh-dark-mode-only">
         <!--STREAK STATS-->
@@ -21,10 +22,10 @@
     <a href="https://github.com/MichaelD835#gh-light-mode-only">
         <!--STREAK STATS-->
         <img width="100%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=MichaelD835&theme=github-light&hide_border=true&border_radius=10" alt="">
-        <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=MichaelD835&theme=vue&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" alt="Michael Douglas github stats">
-        <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&theme=vue&layout=compact&hide_border=true&title_color=58A6FF&text_color=C3D1D9&bg_color=0D1117" alt="GitHub Readme Stats">
+        <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=MichaelD835&theme=vue&show_icons=true&count_private=true&hide_border=true" alt="Michael Douglas github stats">
+        <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&theme=vue&layout=compact&hide_border=true&" alt="GitHub Readme Stats">
         <!--🏆GITHUB GRAPH-->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelD835&theme=react-dark&bg_color=ffffff&hide_border=true&days=7" alt="GitHub Readme Stats">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelD835&theme=react-dark&bg_color=ffffff&hide_border=true&days=7&point=00aeff" alt="GitHub Readme Stats">
         <!--🏆GITHUB TROPHIES-->
         <img src="https://github-profile-trophy.vercel.app/?username=MichaelD835&theme=flat&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15">
     </a>
@@ -103,32 +104,53 @@
             </td>
         </tr>
     </table>
--->    
+--> 
 </div>
 
----
 <div align="center">
+<img src="https://github.com/MichaelD835/MichaelD835/blob/main/rgb-line.svg">
     <!--DARK MODE-->
     <a href="https://github.com/MichaelD835#gh-dark-mode-only">
         <!--🏆GITHUB REPO CARD-->
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links">
+        <table border="5">
+          <tr>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links"></td>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links"></td>
+          </tr>
+          <tr>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links"></td>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links"></td>
+          </tr>
+          <tr>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links"></td>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links"></td>
+          </tr>
+        </table>
     </a>
     <!--LIGHT MODE-->
     <a href="https://github.com/MichaelD835#gh-light-mode-only">
         <!--🏆GITHUB REPO CARD-->
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=default_repocard&hide_border=true&repo=social-links">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=default_repocard&hide_border=true&repo=social-links">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=default_repocard&hide_border=true&repo=social-links">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=default_repocard&hide_border=true&repo=social-links">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=default_repocard&hide_border=true&repo=social-links">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=default_repocard&hide_border=true&repo=social-links">
+        <table border="5">
+          <tr>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=default_repocard&hide_border=true&repo=social-links"></td>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=default_repocard&hide_border=true&repo=social-links"></td>
+          </tr>
+          <tr>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=default_repocard&hide_border=true&repo=social-links"></td>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=default_repocard&hide_border=true&repo=social-links"></td>
+          </tr>
+          <tr>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=default_repocard&hide_border=true&repo=social-links"></td>
+            <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=default_repocard&hide_border=true&repo=social-links"></td>
+          </tr>
+        </table>
     </a>
+<img src="https://github.com/MichaelD835/MichaelD835/blob/main/rgb-line.svg">
+
+<br>
+  <p align="center"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MichaelD835}/count.svg"></p>
+
 </div>
 
----
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
