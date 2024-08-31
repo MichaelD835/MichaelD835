@@ -2,6 +2,9 @@
   <circle cx="50" cy="50" r="25" style="fill:red;">
   <set attributeName="r" to="50" begin="3s" />
       <style>
-          @import url(style.css);
+          @import url(rgb-line.css);
       </style>
+      <body>
+        <div class="loader"></div>
+      </body>
 </svg>
