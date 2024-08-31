@@ -21,10 +21,12 @@
 		        .loader {
 		            position: relative;
 		            width: 1000px;
-		            height: 5px;
+		            height: 3px;
 		            background: #ffffff;
 		            border-radius: 10px;
+			<!--
 		            -webkit-box-reflect: below 1px linear-gradient(transparent, #0005);
+			-->
 		        }
 		        
 		        .loader::before {
