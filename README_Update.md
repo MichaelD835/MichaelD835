@@ -22,10 +22,10 @@
     <a href="https://github.com/MichaelD835#gh-light-mode-only">
         <!--STREAK STATS-->
         <img width="100%" height="195px" src="https://github-readme-streak-stats.herokuapp.com?user=MichaelD835&theme=github-light&hide_border=true&border_radius=10" alt="">
-        <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=MichaelD835&theme=vue&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=000000" alt="Michael Douglas github stats">
-        <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&theme=vue&layout=compact&hide_border=true&title_color=58A6FF&text_color=C3D1D9&bg_color=0D1117" alt="GitHub Readme Stats">
+        <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=MichaelD835&theme=vue&show_icons=true&count_private=true&hide_border=true" alt="Michael Douglas github stats">
+        <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelD835&theme=vue&layout=compact&hide_border=true&" alt="GitHub Readme Stats">
         <!--🏆GITHUB GRAPH-->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelD835&theme=react-dark&bg_color=ffffff&hide_border=true&days=7" alt="GitHub Readme Stats">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=MichaelD835&theme=react-dark&bg_color=ffffff&hide_border=true&days=7&point=00aeff" alt="GitHub Readme Stats">
         <!--🏆GITHUB TROPHIES-->
         <img src="https://github-profile-trophy.vercel.app/?username=MichaelD835&theme=flat&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15">
     </a>
