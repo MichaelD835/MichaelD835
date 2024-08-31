@@ -42,11 +42,11 @@
     <!--SKILLS TABLES-->
     <table>
         <tr>
-            <th>💻 Future Stack</th>
-            <th>💻 Notion Stack</th>
-            <th>💻 Data Stack</th>
-            <th>💻 Design Stack</th>
-            <th>💻 Tools Stack</th>
+            <th>💻 Next Learnings</th>
+            <th>💻 Main Stack</th>
+            <th>💻 Data</th>
+            <th>💻 Design</th>
+            <th>💻 Versioning</th>
         </tr>
         <tr>
             <td>
