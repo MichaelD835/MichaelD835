@@ -112,12 +112,13 @@
           </tr>
         </table>
     </a>
+    
 <img src="https://github.com/MichaelD835/MichaelD835/blob/main/rgb-line.svg">
 
 <br>
-  <p align="center"><b>🧮 Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MichaelD835}/count.svg"></p>
-
+    <p><b>🧮 Visitors Count</b></p>
+    <p align="center"><img align="center" src="https://profile-counter.glitch.me/{MichaelD835}/count.svg"></p>
+    <img src="https://komarev.com/ghpvc/?username=MichaelD835">
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer">
