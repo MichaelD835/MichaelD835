@@ -5,7 +5,6 @@
 				table {
 				  border-radius: 10px;
 				  border-collapse: collapse;
-				  
 				}
 				
 				table, th, td {
@@ -18,6 +17,7 @@
 				  color: aqua;
 				}
 			</style>
+			
 			<div>
       	<body>
 				  <table>
