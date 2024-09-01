@@ -112,7 +112,7 @@
     <a href="https://github.com/MichaelD835#gh-dark-mode-only">
         <!--🏆GITHUB REPO CARD-->
         <table border="5">
-          <tr>
+          <tr style=text-align: center;>
             <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links"></td>
             <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links"></td>
           </tr>
