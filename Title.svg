@@ -2,101 +2,59 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-		        	* {
-			          margin: 0;
-			          padding: 0;
-			          box-sizing: border-box;
-			          font-family: Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif, Arial;
-		        	}
-			        body {
-			          display: flex;
-			          justify-content: center;
-			          align-items: center;
-			          min-height: 100vh;
-			          background: black;
-			          overflow: hidden;
-			        }
-
-				h1 {
-					color: aqua;
+				table {
+				  border-radius: 10px;
+				  border-collapse: collapse;
+				  
 				}
-
 				
-			        .box {
-			          position: relative;
-			          width: 100%;
-			          height: 100%;
-			          display: flex;
-			          justify-content: center;
-			          text-align: center;
-			          align-items: center;
-			          flex-wrap: wrap;
-			        }
-			        .box h2 {
-			          color: #fff;
-			          font-size: 1em;
-			          font-weight: 100%;
-			          letter-spacing: 0.1em;
-			          text-shadow: 
-			          0 0 10px #00b3ff,
-			          0 0 20px #00b3ff,
-			          0 0 40px #00b3ff,
-			          0 0 80px #00b3ff,
-			          0 0 120px #00b3ff;
-			          animation: blinkTextCursor 800ms steps(44) infinite normal;
-			        }
-			        @keyframes blinkTextCursor {
-			          from {border-right-color: black;}
-			          to {border-right-color: transparent;}
-			        }
+				table, th, td {
+				  border: 4px solid blue;
+				  background-color: aliceblue;
+				  text-align: center;
+				}
+				
+				h1 {
+				  color: aqua;
+				}
 			</style>
-			<script>
-			        function typingEffect() {
-			          const contactTexts = shuffleArray(['Hello, My name is Michael', 'Studying Full Stack Development', '6th Period of Information Systems', 'Be Welcome!']);
-			          const typedtext = document.getElementsByClassName("typedtext")[0];
-			          let removing = false;
-			          let idx = char = 0;
-			
-			          setInterval(() => {
-			            if (char < contactTexts[idx].length) typedtext.innerHTML += contactTexts[idx][char];
-			            if (char == contactTexts[idx].length + 15) removing = true;
-			            if (removing) typedtext.innerHTML = typedtext.innerHTML.substring(0, typedtext.innerHTML.length - 1);
-			
-			            char++;
-			
-			            if (typedtext.innerHTML.length === 0) {
-			                if (idx === contactTexts.length - 1) idx = 0
-			                else idx++;
-			
-			                char = 0;
-			                removing = false;
-			            }
-			
-			          }, 150);
-			
-			        }
-			
-			        typingEffect();
-			        function shuffleArray(array) {
-			          let currentIndex = array.length,
-			          temporaryValue, randomIndex;
-			
-			          while (0 !== currentIndex) {
-			
-			            randomIndex = Math.floor(Math.random() * currentIndex);
-			            currentIndex -= 1;
-			
-			            temporaryValue = array[currentIndex];
-			            array[currentIndex] = array[randomIndex];
-			            array[randomIndex] = temporaryValue;
-			          }
-			
-			          return array;
-			        }
-		      </script>
-			<div class="box">
-        			<h2 class="typedtext"></h2>
-      			</div>
-    		</div>
+			<div>
+      	<body>
+				  <table>
+				    <tr>
+				      <th>💻<br>Next Learnings</th>
+				      <th>🎓<br>Main Stack</th>
+				      <th>💾<br>Data</th>
+				      <th>🖌<br>Design</th>
+				      <th>🧩<br>Versioning</th>
+				    </tr>
+				    <tr>
+				      <td>
+				          <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS">
+				          <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React">
+				          <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React Native">
+				      </td>
+				      <td>
+				          <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
+				          <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python">
+				      </td>
+				      <td>
+				          <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+				          <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
+				          <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" alt="MicrosoftSQLServer">
+				      </td>
+				      <td>
+				          <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma">
+				          <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva">
+				      </td>
+				      <td>
+				          <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
+				          <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git">
+				      </td>
+				    </tr>
+				  </table>
+				</body>
+      </div>
+    </div>
 	</foreignObject>
 </svg>
