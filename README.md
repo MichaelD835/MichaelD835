@@ -41,13 +41,13 @@
     <!--SKILLS TABLES-->
     <table>
         <tr>
-            <th>💻 Next Learnings</th>
-            <th></> Main Stack</th>
-            <th>💾 Data</th>
-            <th>🖌 Design</th>
-            <th>🧩 Versioning</th>
+            <th>💻<br>Next Learnings</th>
+            <th>🎓<br>Main Stack</th>
+            <th>💾<br>Database</th>
+            <th>🖌<br>Design</th>
+            <th>🧩<br>Versioning</th>
         </tr>
-        <tr>
+        <tr align="center">
             <td>
                 <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS">
                 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React">
@@ -72,38 +72,6 @@
             </td>
         </tr>
     </table>
-<!--
-    <table>
-        <tr><th>💻 Future Stack</th></tr>
-        <tr><th>💻 Notion Stack</th></tr>
-        <tr><th>💻 Data Stack</th></tr>
-        <tr><th>💻 Design Stack</th></tr>
-        <tr><th>💻 Tools Stack</th></tr>
-        <td>
-                <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white" alt="NodeJS">
-                <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React">
-                <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" alt="React Native">
-        </td>
-        <tr><td>
-                <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white" alt="Java">
-                <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python">
-        </tr></td>
-            <td>
-                <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL">
-                <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB">
-                <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white" alt="MicrosoftSQLServer">
-            </td>
-            <td>
-                <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white" alt="Figma">
-                <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white" alt="Canva">
-            </td>
-            <td>
-                <img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub">
-                <img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git">
-            </td>
-        </tr>
-    </table>
---> 
 </div>
 
 <div align="center">
@@ -112,7 +80,7 @@
     <a href="https://github.com/MichaelD835#gh-dark-mode-only">
         <!--🏆GITHUB REPO CARD-->
         <table border="5">
-          <tr style=text-align: center;>
+          <tr>
             <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links"></td>
             <td><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MichaelD835&theme=github_dark&bg_color=141a23&hide_border=true&repo=social-links"></td>
           </tr>
