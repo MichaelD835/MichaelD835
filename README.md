@@ -13,7 +13,7 @@
         <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=michaeldouglastg&theme=vue-dark&show_icons=true&count_private=true&hide_border=true&title_color=58A6FF&icon_color=1F6FEB&text_color=C3D1D9&bg_color=0D1117" alt="Michael Douglas github stats">
         <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeldouglastg&theme=vue-dark&layout=compact&hide_border=true&title_color=58A6FF&text_color=C3D1D9&bg_color=0D1117" alt="GitHub Readme Stats">
         <!--🏆GITHUB GRAPH-->
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=michaeldouglastg&theme=react-dark&hide_border=true&days=7" alt="GitHub Readme Stats">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=michaeldouglastg&theme=react-dark&hide_border=true&days=14" alt="GitHub Readme Stats">
         <!--🏆GITHUB TROPHIES-->
         <img src="https://github-profile-trophy.vercel.app/?username=michaeldouglastg&theme=algolia&no-frame=true&no-bg=true&row=2&column=3&margin-w=15&margin-h=15">
     </a>
